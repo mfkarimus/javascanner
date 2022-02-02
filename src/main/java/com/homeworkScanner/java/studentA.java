@@ -7,6 +7,7 @@ public class studentA {
     public static void main(String[] args) {
 
         //String name="Fazlu";
+        System.out.println("text");
 
         int pw=12345;  ///database password
         int totalbalance,deposit,withdrow;
